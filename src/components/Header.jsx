@@ -4,7 +4,7 @@ import styles from '../styles/Header.module.css';
 const Header = () => {
   return (
     <header className={styles.header}>
-      <h1>Full Name</h1>
+      <h1>Rezume</h1>
       <nav>
         <a href="#about">About Me</a>
         <a href="#portfolio">Portfolio</a>
