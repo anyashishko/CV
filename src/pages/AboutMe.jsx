@@ -17,11 +17,12 @@ const AboutMe = () => {
           <h3>Work Experience</h3>
           <ul>
             <li>
-              <strong>Self-Employment:</strong> Independent learning in web development.
-            </li>
-            <li>
               <strong>Education:</strong> Bachelor’s degree in Mathematics and Computer Science from BSU (Faculty of Mechanics and Mathematics).
             </li>
+            <li>
+              <strong>Profiling:</strong> web programming and Internet technologies.
+            </li>
+
           </ul>
         </div>
       </div>
