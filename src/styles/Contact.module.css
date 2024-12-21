@@ -12,8 +12,8 @@
     padding: 0;
     display: flex;
     justify-content: center;
-    gap: 20px; /* Расстояние между контактами */
-    flex-wrap: wrap; /* Если ширина маленькая, контакты перейдут на следующий ряд */
+    gap: 20px;
+    flex-wrap: wrap; 
   }
   
   .contact ul li {
